@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="title_activity_tabbed">Chat Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="sign_in_anonymous">Sign IN anonymous</string>
+    <string name="user_nick">User Nick Name</string>
+    <string name="username">Username:</string>
+    <string name="ok">OK</string>
+    <string name="username_exists">Username already exists</string>
+    <string name="message">Message Feed</string>
+    <string name="users">Friends List</string>
+    <string name="messages_for_user">Messages for user</string>
+    <string name="not_sendt_messages">User has not sent any messages.</string>
+    <string name="send">SEND</string>
+    <string name="message_label">Message :</string>
+    <string name="return_return">RETURN</string>
+    <string name="character_count">Characters : </string>
+
+    <!-- Strings related to login -->
+</resources>

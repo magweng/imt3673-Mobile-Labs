@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string-array name="num_tems">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="fetch_rate">
+        <item>10 min</item>
+        <item>60 min</item>
+        <item>Once a day</item>
+    </string-array>
+</resources>
